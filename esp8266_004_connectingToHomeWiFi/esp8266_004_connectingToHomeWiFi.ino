@@ -5,8 +5,8 @@
 
 #include <ESP8266WiFi.h>  // WiFi 라이브러리
 
-#define HOME_SSID   "KT_GiGA_5481"  // 우리집 WiFi 이름
-#define HOME_PWD    "edb24zb726"      // 우리집 WiFi 비밀번호
+#define HOME_SSID   "KT_GiGA_1234"  // 우리집 WiFi 이름
+#define HOME_PWD    "12345678"      // 우리집 WiFi 비밀번호
 
 void setup() {
   Serial.begin(115200);             // 시리얼 통신준비
