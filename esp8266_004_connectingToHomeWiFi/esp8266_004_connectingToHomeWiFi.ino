@@ -1,7 +1,7 @@
-/*
+/****
   ESP8266WiFi.h  
   => File link : https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/ESP8266WiFi.h
-*/
+****/
 
 #include <ESP8266WiFi.h>  // WiFi 라이브러리
 
