@@ -1,8 +1,8 @@
 #include "ESP8266WiFi.h"
 #include "ESP8266WebServer.h"
 
-#define HOME_SSID   "KT_GiGA_5481"  // 우리집 WiFi 이름
-#define HOME_PWD    "edb24zb726"      // 우리집 WiFi 비밀번호
+#define HOME_SSID   "KT_GiGA_1234"  // 우리집 WiFi 이름
+#define HOME_PWD    "12345678"      // 우리집 WiFi 비밀번호
 #define LED_PIN     D13   // 내장 LED 핀번호
 
 ESP8266WebServer server(80);  // HTTP 기본 포트인 80설정
